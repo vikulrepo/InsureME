@@ -8,6 +8,8 @@
           <include name="testUpdatePolicy"/>
           <include name="testDeletePolicy"/>
           <include name="testViewPolicy"/>
+          <include name="testSearchPolicy"/>
+          <include name="testCreatePolicy"/>
         </methods>
       </class> <!-- com.project.staragile.insureme.InsureMeApplicationTests -->
     </classes>
